@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/20 17:15:42.000.708,=C:\Users\nikit\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/20 17:34:03.000.912,=C:\Users\nikit\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/04 21:14:04.000.838,=C:\Users\nikit\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 21:25:43.000.235,C:\Users\nikit\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\nikit\OneDrive\Desktop\papka\delphi\qwe\Unit1.pas</Transaction>
+    <Transaction>2020/11/04 21:25:43.000.235,C:\Users\nikit\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\nikit\OneDrive\Desktop\papka\delphi\qwe\Unit1.dfm</Transaction>
+    <Transaction>2020/11/04 21:25:46.000.738,C:\Users\nikit\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\nikit\OneDrive\Desktop\papka\delphi\qwe\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
